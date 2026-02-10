@@ -2,7 +2,7 @@
 
 Hi, I’m Janvi a Computer Science student and Frontend Developer passionate about building clean, responsive, and interactive web experiences. I enjoy turning ideas into smooth UI using React, Tailwind CSS, JavaScript, and GSAP.
 
-I’m an AWS x PWIOI Hackathon Winner 🏆 and have worked on freelance client websites along with several personal projects. I love learning new frontend techniques, improving performance, and creating interfaces that feel intuitive and engaging.
+I’m an AWS x PWIOI Hackathon Winner and have worked on freelance client websites along with several personal projects. I love learning new frontend techniques, improving performance, and creating interfaces that feel intuitive and engaging.
 
 Currently focused on sharpening my React skills, learning backend, and contributing to impactful projects 🚀  
 Outside of development, I enjoy bike riding 🚴‍♀️ and vibing to music 🎵 both help me reset, stay creative, and come back with fresh ideas.
